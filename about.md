@@ -1,6 +1,6 @@
 ### Hey there, you found me.
 
-[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)]([sandidsisir.github.io](https://sandidsisir.github.io))
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://sandidsisir.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4284F3?style=flat-square&logo=googlescholar&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-0F141A?style=flat-square&logo=x&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)]()
