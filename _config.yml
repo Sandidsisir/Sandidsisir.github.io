@@ -4,8 +4,7 @@ email:
 description: "Musings of a Computer Scientist."
 baseurl: ""
 url: "https://sandidsisir.github.io"
-twitter_username: Sandid
-github_username:  sandid
+
 
 # Build settings
 markdown: kramdown
